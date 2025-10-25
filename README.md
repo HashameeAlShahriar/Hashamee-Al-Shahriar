@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently studying on [American International University-Bangladesh](https://www.aiub.edu/)
 
-- 🌱 I’m currently learning **C++.**
+- 🌱 I’m currently learning **Web Dev**
+- also, I finished learning c++, java, c#, Computer Aided Design & Drafting, sql and, python.
 
 - 📫 How to reach me **hashameealshahriaraditya@gmail.com**
 
