@@ -13,10 +13,10 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p style="display: flex; align-items: center; gap: 5px;">
+<p style="display: flex; align-items: center; gap: 4px;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-             alt="cplusplus" width="25" height="25"/>
+             alt="cplusplus" width="28" height="28"/>
     </a>
      //just love it;
     
