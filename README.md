@@ -16,7 +16,7 @@
 <p style="display: flex; align-items: center; gap: 01px;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-             alt="cplusplus" width="28" height="28"/>
+             alt="cplusplus" width="29" height="29"/>
     </a>
      //just love it;
     
