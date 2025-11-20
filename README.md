@@ -9,6 +9,9 @@
 - also, I finished learning c++, C, java, c#, Computer Aided Design & Drafting, sql and, python.
 
 - 📫 How to reach me **hashameealshahriaraditya@gmail.com**
+- I😆’m a cheat-code player. Moving through life with hidden shortcuts, silent tactics, and patterns only I understand.
+I don’t follow the usual route; I bend the rules, rewrite the flow, and play the game in my own way.
+  :> Sir, sorry Sir.
 
 
 
