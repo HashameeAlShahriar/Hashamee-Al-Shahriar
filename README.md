@@ -24,3 +24,6 @@
     
 </p>
 
+// everydaylife_FeelOfAlgorithms;
+Your obedient author.
+
