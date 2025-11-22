@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hashameealshahriaraditya@gmail.com**
   
-  :> Sir, sorry Sir.
+  
 
 
 
@@ -24,6 +24,6 @@
     
 </p>
 
-// everydaylife_theFeelOfAlgorithms; <br>
+
 Your obedient author.
 
