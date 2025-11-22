@@ -24,6 +24,6 @@
     
 </p>
 
-// everydaylife_FeelOfAlgorithms;
+// everydaylife_theFeelOfAlgorithms; <br>
 Your obedient author.
 
