@@ -3,7 +3,7 @@
 <h3 align="center">I'm a student.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif">
 
-- 🔭 I’m currently studying on [American International University-Bangladesh](https://www.aiub.edu/)
+
 
 - 🌱 I’m currently learning **Web Dev**
 - also, I finished learning c++, C, java, c#, Computer Aided Design & Drafting, sql and, python.
